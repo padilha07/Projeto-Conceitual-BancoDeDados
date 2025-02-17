@@ -34,3 +34,4 @@ O banco de dados segue um **modelo relacional**, garantindo integridade e organi
 
 5. **Owner (Proprietário)**  
    - Determina a propriedade entre os participantes do sistema.  
+![Diagrama Conceitual](img/ModeloEntidadeRelacionamentoBanco.drawio.png)
